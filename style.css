@@ -1,0 +1,31 @@
+*{
+    font-family: Georgia;
+}
+
+.custom-bg {
+    background-color:#8EAFA6;
+}
+
+.custom-text-white{
+    color: antiquewhite;
+}
+
+.headerImage{
+
+  color: #8EAFA6;
+    width: 100%;
+
+}
+
+
+.HeaderText{
+    color:   #8EAFA6;
+}
+
+.footer{
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+
